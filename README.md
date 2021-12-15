@@ -1,4 +1,4 @@
-# calculator-grpc for Python
+# calculator-grpc
 
 ## to install
 
