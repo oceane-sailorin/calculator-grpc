@@ -2,7 +2,7 @@
 
 ## to install
 
-* git clone https://github.com/oceane-sailorin/calculator-grpc
+* python and pip are supposed to be installed
 
 * cd calculator-grpc
 
